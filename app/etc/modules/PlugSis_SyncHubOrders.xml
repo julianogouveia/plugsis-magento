@@ -2,7 +2,7 @@
 <config>
 	<modules>
 		<PlugSis_SyncHubOrders>
-			<active>false</active>
+			<active>true</active>
 			<codePool>community</codePool>
 		</PlugSis_SyncHubOrders>
 	</modules>

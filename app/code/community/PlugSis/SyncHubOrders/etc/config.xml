@@ -5,4 +5,15 @@
 			<version>0.0.1</version>
 		</PlugSis_SyncHubOrders>
 	</modules>
+	<frontend>
+        <routers>
+            <synchuborders>
+                <use>standard</use>
+                <args>
+                    <frontName>synchuborders</frontName>
+                    <module>PlugSis_SyncHubOrders</module>
+                </args>
+            </synchuborders>
+        </routers>
+    </frontend>
 </config>

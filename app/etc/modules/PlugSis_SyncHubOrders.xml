@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<PlugSis_SyncHubOrders>
+			<active>false</active>
+			<codePool>community</codePool>
+		</PlugSis_SyncHubOrders>
+	</modules>
+</config>
